@@ -1,0 +1,15 @@
+h1{
+    background-color: yellow;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.plato{
+    width: 50%;
+    height: auto;
+}
